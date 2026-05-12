@@ -5,7 +5,7 @@ A full-stack AI-powered Sentiment Analyzer application deployed on AWS.
 ## Live Demo
 
 ### Frontend
-https://app.myanalyzerapp.com
+dyqeqiicfucwh.cloudfront.net
 
 ### Backend API
 https://api.myanalyzerapp.com/api/health
